@@ -54,7 +54,7 @@ def run_test(test_metric_names, use_cpu):
     # ref_dir = r'F:\Experiments\LLIEResutls\GT\LOLv2'
     # method = 'iPASSR'
     # dataset = 'MIT5K'
-#    img_dir = r'/home/zwb/code/UHDformer/results/WaveMamba_UHDLL'
+#    img_dir = r'/home/zwb/code/UHDformer/results'
     img_dir = '/home/zwb/code/results'
     ref_dir = '/home/ywp/zwb/LOLv1/eval15/high'
     # ref_dir = r'F:\Experiments\LLIEResutls\GT\{}'.format(dataset)
