@@ -2,7 +2,7 @@
 
 # Code for Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing
 
-This implementation is written by Yongzhen Wang at Anhui University of Technology.
+This implementation is written by Yongzhen Wang and Liangliang Chen at Anhui University of Technology.
 
 ## Prerequisites:
 Python 3.7 or above
